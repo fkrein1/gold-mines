@@ -1,7 +1,4 @@
-# JS-Test
-Test JS and programming knowledge
-
-## Exercise
+# Gold Mines
 
 You will be provided data about lands in California and the location of gold mines within these lands.
 
@@ -31,18 +28,3 @@ Your method `findBestSpot` should return an object containing the following prop
 * `goldMines` : the number of gold mines you will be owning
 
 **IMPORTANT** if there is more than one solution, your program should return the solution with the lowest values for `x`, and for `y` with this priority. For instance, if possible coordinates are `(1,2)`, `(2,1)` and `(2,2)`, your program should return `(1,2)` as coordinates for your exploitation.
-
-## Get started
-
-* clone the repo
-* install npm
-* run `npm install` to install all the dependencies you will be needing (jest)
-* edit the file `index.js` to create your program
-* run `npm run test` to test your solution
-
-## Providing your answer
-
-Whenever you want to publish your answer, commit your changes (`git commit`) and push them (`git push`)
-
-**Note**
-There are several ways to answer this exercise. You will have choices to make. Don't hesitate to write all of your thoughts as a comment within your code. From the moment you clone the repo, your **speed** will be taken into account, but it is not the only parameter that we will consider. **Code clarity**, **conciseness**, **performance**, **correctness** and **creativity** will receive the same consideration.
